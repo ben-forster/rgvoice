@@ -1,2 +1,2 @@
 # rgvoice
-Voice client for the revgo API wrapper
+Voice client for revgo
